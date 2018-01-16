@@ -1,3 +1,3 @@
-# Project 3
-by Ekin Erinmez, Victor Hogan
-*yayayyayaa
+# Project 3: Facteurs écologiques des voitures autonomes
+by Erkin Erinmez, Victor Hogan
+
